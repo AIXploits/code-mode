@@ -1,10 +1,21 @@
-# Code Mode UTCP
+<div align="center">
+<!-- <img alt="utcp code mode banner" src="https://github.com/user-attachments/assets/77723130-ecbc-4d1d-9e9b-20f978882699" width="80%" style="margin: 20px auto;"> -->
 
-[![npm](https://img.shields.io/npm/v/@utcp/code-mode)](https://www.npmjs.com/package/@utcp/code-mode) 
-![npm downloads](https://img.shields.io/npm/dt/@utcp/code-mode)
-![GitHub Stars](https://img.shields.io/github/stars/universal-tool-calling-protocol/typescript-utcp)
+<h1 align="center">🤖 Code Mode UTCP: First plug-and-play Code Mode library</h1>
+<p align="center">
+    <a href="https://github.com/universal-tool-calling-protocol">
+        <img src="https://img.shields.io/github/followers/universal-tool-calling-protocol?label=Follow%20Org&logo=github" /></a>
+    <a href="https://img.shields.io/npm/dt/@utcp/code-mode" title="PyPI Version">
+        <img src="https://img.shields.io/npm/dt/@utcp/code-mode"/></a>
+    <a href="https://github.com/universal-tool-calling-protocol/code-mode/blob/main/LICENSE" alt="License">
+        <img src="https://img.shields.io/github/license/universal-tool-calling-protocol/code-mode" /></a>
+ 
+  [![npm](https://img.shields.io/npm/v/@utcp/code-mode)](https://www.npmjs.com/package/@utcp/code-mode)
+</p>
+</div>
 
-> **The first plug-and-play Code Mode library that enables tool call via code execution locally.**  
+
+> **Enable tool call via code execution locally.**  
 > Transform your AI agents from clunky tool callers into efficient code executors — in just 3 lines.
 
 ## Why This Changes Everything
