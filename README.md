@@ -46,7 +46,8 @@ Independent [Python benchmark study](https://github.com/imran31415/codemode_pyth
 
 # Getting Started
 
-[![Tutorial for MCP use](https://img.youtube.com/vi/zsMjkPzmqhA/0.jpg)](https://www.youtube.com/watch?v=zsMjkPzmqhA)
+[<img width="2606" height="1445" alt="Frame 4 (4)" src="https://github.com/user-attachments/assets/58ba26ab-6e77-459b-a59a-eeb60d711746" />
+](https://www.youtube.com/watch?v=zsMjkPzmqhA)
 
 ## Get Started in 3 Lines
 
